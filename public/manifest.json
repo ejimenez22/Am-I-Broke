@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Am-I-Broke",
+    "short_name": "Budget-Tracker",
     "icons": [
         {
             "src": "public/icons/icon-72x72.png",
